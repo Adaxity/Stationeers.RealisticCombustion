@@ -1,0 +1,28 @@
+﻿[Message: Preloader] BepInEx 5.0.1.186 - rocketstation
+[Message: Preloader] BLEEDING EDGE Build #186 from 07e30997aa12409e66e9bfd0c1ae2ac2bc5c757d at master
+[Info   : Preloader] Running under Unity v2019.2.4.12991274
+[Info   : Preloader] CLR runtime version: 4.0.30319.17020
+[Info   : Preloader] Supports SRE: False
+[Message: Preloader] Preloader started
+[Info   : Preloader] Loaded 1 patcher methods from BepInEx.MonoMod.Loader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Info   : Preloader] 2 patcher plugin(s) loaded
+[Info   : Preloader] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   : Preloader] Collecting target assemblies from mods
+[Info   : Preloader] Patching [Assembly-CSharp] with [BepInEx.MonoMod.Loader.Patcher]
+[Message: Preloader] [Main] Scanning for mods in directory.
+[Message: Preloader] [ReadMod] Loading mod dir: C:\Program Files (x86)\Steam\steamapps\common\Stationeers\BepInEx\monomod
+[Message: Preloader] [ReadMod] Loading mod: C:\Program Files (x86)\Steam\steamapps\common\Stationeers\BepInEx\monomod\Assembly-CSharp.MountOnWalls.mm.dll
+[Message: Preloader] [Main] Found 1 mods
+[Message: Preloader] [Main] mm.PatchRefs(); fixup pre-pass
+[Message: Preloader] [Main] mm.AutoPatch();
+[Message: Preloader] [AutoPatch] Parsing rules in loaded mods
+[Message: Preloader] [AutoPatch] PrePatch pass
+[Message: Preloader] [AutoPatch] Patch pass
+[Message: Preloader] [AutoPatch] PatchRefs pass
+[Message: Preloader] [PostProcessor] PostProcessor pass #1
+[Message: Preloader] [Main] Done.
+[Message: Preloader] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete
